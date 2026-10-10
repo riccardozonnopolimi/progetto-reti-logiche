@@ -52,9 +52,9 @@ The design is synthesisable and passes all tests in **behavioural, post-synthesi
 
 | File | Content |
 |---|---|
-| `10702465.vhd` | VHDL source of the component |
+| `sequence_filler.vhd` | VHDL source of the component |
 | `project_tb.vhd` | Testbench |
-| `10702465.pdf` | Project report (in Italian) |
+| `report.pdf` | Project report (in Italian) |
 
 ## Author
 
